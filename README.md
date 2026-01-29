@@ -12,5 +12,6 @@ A responsive sushi restaurant landing page built with HTML/CSS/JavaScript, anima
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript (ES Modules)
-- Vite
+- Vite<img width="408" height="612" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/73da349c-1c30-4d93-b483-75cbd271e4b4" />
+
 - AOS (Animate On Scroll)
