@@ -1,4 +1,5 @@
 # Sushiman — Sushi Landing Page
+<img width="1875" height="4522" alt="Opera Snapshot_2026-01-29_021552_index html" src="https://github.com/user-attachments/assets/57134f3a-3497-4678-9c85-3eac80bf414d" />
 
 A responsive sushi restaurant landing page built with HTML/CSS/JavaScript, animated with AOS and bundled with Vite.
 
@@ -12,6 +13,14 @@ A responsive sushi restaurant landing page built with HTML/CSS/JavaScript, anima
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript (ES Modules)
-- Vite<img width="408" height="612" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/73da349c-1c30-4d93-b483-75cbd271e4b4" />
-
+- Vite
 - AOS (Animate On Scroll)
+
+## Getting Started
+
+### Requirements
+- Node.js + npm
+
+### Install
+```bash
+npm install
